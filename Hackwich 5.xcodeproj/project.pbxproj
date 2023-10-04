@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CB97667A2ACD3E6A00C73B51 /* secondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CB9766792ACD3E6A00C73B51 /* secondViewController.swift */; };
 		CBDF932A2ACD3D4D00D1E93A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBDF93292ACD3D4D00D1E93A /* AppDelegate.swift */; };
 		CBDF932C2ACD3D4D00D1E93A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBDF932B2ACD3D4D00D1E93A /* SceneDelegate.swift */; };
 		CBDF932E2ACD3D4D00D1E93A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBDF932D2ACD3D4D00D1E93A /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		CB9766792ACD3E6A00C73B51 /* secondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = secondViewController.swift; sourceTree = "<group>"; };
 		CBDF93262ACD3D4D00D1E93A /* Hackwich 5.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Hackwich 5.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBDF93292ACD3D4D00D1E93A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CBDF932B2ACD3D4D00D1E93A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				CBDF932B2ACD3D4D00D1E93A /* SceneDelegate.swift */,
 				CBDF932D2ACD3D4D00D1E93A /* ViewController.swift */,
 				CBDF932F2ACD3D4D00D1E93A /* Main.storyboard */,
+				CB9766792ACD3E6A00C73B51 /* secondViewController.swift */,
 				CBDF93322ACD3D4D00D1E93A /* Assets.xcassets */,
 				CBDF93342ACD3D4D00D1E93A /* LaunchScreen.storyboard */,
 				CBDF93372ACD3D4D00D1E93A /* Info.plist */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB97667A2ACD3E6A00C73B51 /* secondViewController.swift in Sources */,
 				CBDF932E2ACD3D4D00D1E93A /* ViewController.swift in Sources */,
 				CBDF932A2ACD3D4D00D1E93A /* AppDelegate.swift in Sources */,
 				CBDF932C2ACD3D4D00D1E93A /* SceneDelegate.swift in Sources */,
